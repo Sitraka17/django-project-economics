@@ -1,22 +1,13 @@
-# Brennan's Django Showcase
+# Django Project Economics
 
 <!-- NEW BADGES-->
-<div align="center">
-![Django Version](https://img.shields.io/badge/Django-5.1.3-green)
-![Python Version](https://img.shields.io/badge/Python-3.13-blue)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sitraka17/django-project-economics)
-![GitHub repo size](https://img.shields.io/github/repo-size/Sitraka17/django-project-economics)
-![GitHub top language](https://img.shields.io/github/languages/top/Sitraka17/django-project-economics)
-![GitHub issues](https://img.shields.io/github/issues/Sitraka17/django-project-economics)
-![GitHub last commit](https://img.shields.io/github/last-commit/Sitraka17/django-project-economics)
-![GitHub](https://img.shields.io/github/license/Sitraka17/django-project-economics)
+![Django Version](https://img.shields.io/badge/Django-5.1.3-green) ![Python Version](https://img.shields.io/badge/Python-3.13-blue)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sitraka17/django-project-economics) ![GitHub repo size](https://img.shields.io/github/repo-size/Sitraka17/django-project-economics)
+![GitHub top language](https://img.shields.io/github/languages/top/Sitraka17/django-project-economics) ![GitHub issues](https://img.shields.io/github/issues/Sitraka17/django-project-economics)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sitraka17/django-project-economics) ![GitHub license](https://img.shields.io/github/license/Sitraka17/django-project-economics)
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline%21&label=Status&up_color=darkgreen&up_message=Online%21&url=https%3A%2F%2Fdjango.life)
-<br />
-![GitHub followers](https://img.shields.io/github/followers/Sitraka17?label=Follow%20Me%21&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Sitraka17/django-project-economics?label=Watch%21&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Sitraka17/django-project-economics?label=Star%21&style=social)
-![GitHub forks](https://img.shields.io/github/forks/Sitraka17/django-project-economics?label=Fork%21&style=social)
-</div>
+![GitHub followers](https://img.shields.io/github/followers/Sitraka17?label=Follow%20Me%21&style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Sitraka17/django-project-economics?label=Watch%21&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Sitraka17/django-project-economics?label=Star%21&style=social) ![GitHub forks](https://img.shields.io/github/forks/Sitraka17/django-project-economics?label=Fork%21&style=social)
 
 > **🚀 Recently Updated!** This project has been upgraded to Django 5.1.3 (LTS) and Python 3.13 with enhanced security features. See [docs/upgrade-guide.md](docs/upgrade-guide.md) for details.
 
@@ -239,7 +230,7 @@ See the [docs/README.md](docs/README.md) for a complete documentation index.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/brennanbrown/django-project/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Sitraka17/django-project-economics/issues) for a list of proposed features and known issues.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -260,6 +251,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Brennan K. Brown - [@brennankbrown](https://twitter.com/brennanbrown) - [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+Project maintainer - [@Sitraka17](https://github.com/Sitraka17)
 
-Project Link: [https://github.com/brennanbrown/django-project](https://github.com/brennanbrown/django-project)
+Project Link: [https://github.com/Sitraka17/django-project-economics](https://github.com/Sitraka17/django-project-economics)

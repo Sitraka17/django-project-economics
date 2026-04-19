@@ -78,7 +78,7 @@ The project includes helpful automation scripts in the `/scripts` directory:
 
 ## 💡 Quick Links
 
-- **Main Repository**: [brennanbrown/django-project](https://github.com/brennanbrown/django-project)
+- **Main Repository**: [Sitraka17/django-project-economics](https://github.com/Sitraka17/django-project-economics)
 - **Django Documentation**: https://docs.djangoproject.com/en/5.1/
 - **Heroku Documentation**: https://devcenter.heroku.com/articles/django-app-configuration
 

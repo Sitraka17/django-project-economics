@@ -45,10 +45,10 @@ This project was recently upgraded to address multiple security vulnerabilities:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please do the following:
+If you discover a security vulnerability, please report it through the repository's issue tracker or the GitHub security advisory flow.
 
-1. **DO NOT** open a public issue
-2. Email the details to: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+1. **DO NOT** publish exploit details publicly until a fix is available.
+2. Open a private security report, or create an issue with a clear title and details.
 3. Include:
    - Description of the vulnerability
    - Steps to reproduce
@@ -121,7 +121,7 @@ Before deploying to production, ensure:
 
 ## Contact
 
-For security concerns, contact: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+For security concerns, please use GitHub issues or the repository's security report option.
 
 ---
 
