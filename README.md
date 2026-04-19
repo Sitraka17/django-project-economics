@@ -1,22 +1,22 @@
-<h1 align="center">Brennan's Django Showcase</h1>
+# Brennan's Django Showcase
 
 <!-- NEW BADGES-->
-<p align="center">
-<img alt="Django Version" src="https://img.shields.io/badge/Django-5.1.3-green">
-<img alt="Python Version" src="https://img.shields.io/badge/Python-3.13-blue">
-<img alt="GitHub code size in bytes"
-src="https://img.shields.io/github/languages/code-size/brennanbrown/django-project"> <img alt="GitHub repo size"
-src="https://img.shields.io/github/repo-size/brennanbrown/django-project"> <img alt="GitHub top language"
-src="https://img.shields.io/github/languages/top/brennanbrown/django-project"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/brennanbrown/django-project"> <img alt="GitHub last commit"
-src="https://img.shields.io/github/last-commit/brennanbrown/django-project"> <img alt="GitHub" src="https://img.shields.io/github/license/brennanbrown/django-project"> <img alt="Website"
-src="https://img.shields.io/website?down_color=red&down_message=Offline%21&label=Status&up_color=darkgreen&up_message=Online%21&url=https%3A%2F%2Fdjango.life">
+<div align="center">
+![Django Version](https://img.shields.io/badge/Django-5.1.3-green)
+![Python Version](https://img.shields.io/badge/Python-3.13-blue)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sitraka17/django-project-economics)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sitraka17/django-project-economics)
+![GitHub top language](https://img.shields.io/github/languages/top/Sitraka17/django-project-economics)
+![GitHub issues](https://img.shields.io/github/issues/Sitraka17/django-project-economics)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sitraka17/django-project-economics)
+![GitHub](https://img.shields.io/github/license/Sitraka17/django-project-economics)
+![Website](https://img.shields.io/website?down_color=red&down_message=Offline%21&label=Status&up_color=darkgreen&up_message=Online%21&url=https%3A%2F%2Fdjango.life)
 <br />
-<img alt="GitHub followers"
-src="https://img.shields.io/github/followers/brennanbrown?label=Follow%20Me%21&style=social"> <img alt="GitHub watchers"
-src="https://img.shields.io/github/watchers/brennanbrown/django-project?label=Watch%21&style=social"> <img alt="GitHub stars"
-src="https://img.shields.io/github/stars/brennanbrown/django-project?label=Star%21&style=social"> <img alt="GitHub forks"
-src="https://img.shields.io/github/forks/brennanbrown/django-project?label=Fork%21&style=social">
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Sitraka17?label=Follow%20Me%21&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Sitraka17/django-project-economics?label=Watch%21&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Sitraka17/django-project-economics?label=Star%21&style=social)
+![GitHub forks](https://img.shields.io/github/forks/Sitraka17/django-project-economics?label=Fork%21&style=social)
+</div>
 
 > **🚀 Recently Updated!** This project has been upgraded to Django 5.1.3 (LTS) and Python 3.13 with enhanced security features. See [docs/upgrade-guide.md](docs/upgrade-guide.md) for details.
 
@@ -40,9 +40,9 @@ A modern Django 5.1 portfolio/showcase website built with:
 
 - **Backend**: Django 5.1.3 (LTS) with Python 3.13
 - **Database**: PostgreSQL with psycopg3
-- **Frontend**: Bootstrap 4 and vanilla JavaScript  
+- **Frontend**: Bootstrap 4 and vanilla JavaScript
 - **Deployment**: Ready for Heroku, DigitalOcean, or AWS
-- **Features**: 
+- **Features**:
   - Environment-based configuration
   - Production-ready security settings
   - Static file handling with WhiteNoise
@@ -56,18 +56,18 @@ A modern Django 5.1 portfolio/showcase website built with:
 For development, you will need **Python 3.12 or higher**, pip, venv, and PostgreSQL installed in your environment.
 
 > **For Forkers**: This project is ready to fork and deploy! See [docs/quick-start.md](docs/quick-start.md) to get started.
-> 
+
 > **Upgrading**: If you're upgrading an older Django 3.0 project, see [docs/upgrade-guide.md](docs/upgrade-guide.md).
 
 ### Prerequisites
 
-* A good understanding of web development (HTML, CSS, JavaScript)
-* Basic knowledge of Python and SQL database systems
-* Familar with Django framework for front-end and back-end development
-* Object-oriented Programming (OOP) paradigm
-* Model-View-Controller (MVC) paradigm
-* Model-View-ViewMode (MVVM) paradigm
-* Knowledge and use of the Command-line Interface (CLI)
+- A good understanding of web development (HTML, CSS, JavaScript)
+- Basic knowledge of Python and SQL database systems
+- Familiar with Django framework for front-end and back-end development
+- Object-oriented Programming (OOP) paradigm
+- Model-View-Controller (MVC) paradigm
+- Model-View-ViewModel (MVVM) paradigm
+- Knowledge and use of the Command-line Interface (CLI)
 
 #### Python installation on Ubuntu
 
@@ -127,8 +127,8 @@ Please note for sake of ease, this project is set to work with the default confi
 
 ## Installation
 
-    $ git clone https://github.com/brennanbrown/django-project.git
-    $ cd django-project
+    $ git clone https://github.com/Sitraka17/django-project-economics.git
+    $ cd django-project-economics
 
 ### Virtual Environment (`venv`)
 
