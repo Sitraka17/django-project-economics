@@ -27,9 +27,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A modern Django 5.1 portfolio/showcase website built with:
+A modern Django 4.2 portfolio/showcase website built with:
 
-- **Backend**: Django 5.1.3 (LTS) with Python 3.13
+- **Backend**: Django 4.2.16 (LTS) with Python 3.9+
 - **Database**: PostgreSQL with psycopg3
 - **Frontend**: Bootstrap 4 and vanilla JavaScript
 - **Deployment**: Ready for Heroku, DigitalOcean, or AWS
