@@ -3,7 +3,7 @@ Django==4.2.16
 asgiref==3.8.1
 
 # Database
-psycopg[binary]==3.2.3
+psycopg[binary]==3.2.13
 dj-database-url==2.2.0
 
 # Production server

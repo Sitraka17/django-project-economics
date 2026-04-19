@@ -44,7 +44,7 @@ A modern Django 4.2 portfolio/showcase website built with:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-For development, you will need **Python 3.12 or higher**, pip, venv, and PostgreSQL installed in your environment.
+For development, you will need **Python 3.9 or higher**, pip, venv, and PostgreSQL installed in your environment.
 
 > **For Forkers**: This project is ready to fork and deploy! See [docs/quick-start.md](docs/quick-start.md) to get started.
 
@@ -125,11 +125,11 @@ Please note for sake of ease, this project is set to work with the default confi
 
 While there are a few ways to achieve a programming environment in Python, we’ll be using the venv module here, which is part of the standard Python 3 library. Let’s install venv by typing:
 
-    $ sudo apt install python3.12-venv
+    $ sudo apt install python3.9-venv
 
 Creating and entering a new virtual environment:
 
-    $ python3.12 -m venv env
+    $ python3 -m venv env
     $ source env/bin/activate  # On Windows: env\Scripts\activate
     $ pip install --upgrade pip
     $ pip install -r requirements.txt
