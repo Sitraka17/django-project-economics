@@ -1,7 +1,7 @@
 # Django Project Economics
 
 <!-- NEW BADGES-->
-![Django Version](https://img.shields.io/badge/Django-5.1.3-green) ![Python Version](https://img.shields.io/badge/Python-3.13-blue)
+![Django Version](https://img.shields.io/badge/Django-4.2.16-green) ![Python Version](https://img.shields.io/badge/Python-3.9+-blue)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sitraka17/django-project-economics) ![GitHub repo size](https://img.shields.io/github/repo-size/Sitraka17/django-project-economics)
 ![GitHub top language](https://img.shields.io/github/languages/top/Sitraka17/django-project-economics) ![GitHub issues](https://img.shields.io/github/issues/Sitraka17/django-project-economics)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sitraka17/django-project-economics) ![GitHub license](https://img.shields.io/github/license/Sitraka17/django-project-economics)
@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Sitraka17?label=Follow%20Me%21&style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Sitraka17/django-project-economics?label=Watch%21&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Sitraka17/django-project-economics?label=Star%21&style=social) ![GitHub forks](https://img.shields.io/github/forks/Sitraka17/django-project-economics?label=Fork%21&style=social)
 
-> **🚀 Recently Updated!** This project has been upgraded to Django 5.1.3 (LTS) and Python 3.13 with enhanced security features. See [docs/upgrade-guide.md](docs/upgrade-guide.md) for details.
+> **🚀 Recently Updated!** This project has been upgraded to Django 4.2.16 (LTS) and Python 3.9+ with enhanced security features. See [docs/upgrade-guide.md](docs/upgrade-guide.md) for details.
 
 **Table of Contents:**
 
